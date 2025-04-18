@@ -1,7 +1,7 @@
 
 # Financial Market Data Engineering Pipeline (Week 1 Project)
 
-![architecture](https://github.com/user-attachments/assets/fc607220-10a3-47cd-890a-d4c21debd91e)
+![architecture](https://github.com/user-attachments/assets/5a3c7c50-48f9-47e8-b3a4-ba0100ed4661)
 
 ## 🌐 Project Overview
 This project implements an automated data engineering pipeline designed to extract, transform, and load (ETL) financial market data from Yahoo Finance using Python, Apache Spark, and PostgreSQL. The pipeline is orchestrated using Apache Airflow and is scheduled to run multiple times daily to ensure up-to-date insights into the stock performance of major companies.
